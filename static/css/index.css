@@ -749,5 +749,214 @@ a:focus {
   }
 }
 
+/* =========================
+   Team grid (REPLACED)
+   ========================= */
 
+/* Team grid – mobile-first, responsive */
+.team-container {
+  display: grid;
+  grid-template-columns: 1fr;          /* phones: 1 per row */
+  gap: 2rem 1.25rem;
+  justify-items: center;
+  padding: 30px 0;
+}
 
+@media (min-width: 480px) {            /* small tablets: 2 per row */
+  .team-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 768px) {            /* tablets: 3 per row */
+  .team-container { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (min-width: 1200px) {           /* desktop: 4 per row */
+  .team-container { grid-template-columns: repeat(4, 1fr); }
+}
+
+/* Team card */
+.team-member {
+  text-align: center;
+  padding: 0.25rem;
+}
+
+/* Portraits: consistent, responsive circles */
+.team-member img {
+  width: clamp(96px, 22vw, 140px);
+  height: clamp(96px, 22vw, 140px);
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Name */
+.team-member h3 {
+  margin: 0.9rem 0 0.4rem;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: var(--text-primary);
+}
+
+/* Role/affiliation */
+.team-member p {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin: 0 auto 0.85rem;
+  max-width: 26ch;
+  line-height: 1.5;
+}
+
+/* Links row */
+.team-links {
+  display: inline-flex;
+  gap: 0.6rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-links a {
+  display: inline-flex;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: center;
+  background: #eef2ff;
+  color: var(--primary-color);
+  transition: transform 120ms ease;
+}
+
+.team-links a:hover { transform: translateY(-2px); }
+.team-links i { font-size: 1.05rem; }
+
+/* =========================
+   Highlights section
+   ========================= */
+.section--highlights {
+  background: #0b0b0d; /* deep slate */
+  padding-top: 3.5rem;
+  padding-bottom: 2.5rem;
+  border-top: 1px solid rgba(255,255,255,0.04);
+}
+.highlights-title {
+  color: #eaeaf0;
+  margin-bottom: 1.5rem;
+}
+.highlight-card {
+  background: #141418;
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 16px;
+  padding: 1.5rem;
+  height: 100%;
+  box-shadow: 0 1px 0 rgba(255,255,255,0.04) inset, 0 6px 20px rgba(0,0,0,0.25);
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+.highlight-card:hover,
+.highlight-card:focus-within {
+  transform: translateY(-2px);
+  border-color: rgba(255,255,255,0.12);
+  box-shadow: 0 1px 0 rgba(255,255,255,0.06) inset, 0 14px 28px rgba(0,0,0,0.35);
+}
+.highlight-title {
+  color: #f5f6fb;
+  font-weight: 800;
+  font-size: 1.35rem;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+}
+.highlight-body {
+  color: #c7c9d1;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+.accent-link {
+  color: #4ade80;               /* emerald */
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 2px;
+}
+.accent-link:focus-visible {
+  outline: 2px dashed #4ade80;
+  outline-offset: 2px;
+}
+
+/* Small screens spacing tune-up */
+@media (max-width: 768px) {
+  .highlights-title { font-size: 1.75rem; }
+  .highlight-card { padding: 1.25rem; }
+}
+
+.fontys-purple {
+  color: #51277B;
+  font-weight: 600;
+}
+
+/* Ultra-tight team layout – 7 across on desktop */
+.team-container {
+  gap: 0.75rem 0.75rem;    /* very small horizontal & vertical gap */
+  padding: 10px 0;
+}
+
+/* phones: 1 per row, small tablets: 2 per row, tablets: 3 per row */
+@media (min-width: 480px) {
+  .team-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 768px) {
+  .team-container { grid-template-columns: repeat(3, 1fr); }
+}
+
+/* desktop: 7 per row */
+@media (min-width: 1200px) {
+  .team-container { grid-template-columns: repeat(7, 1fr); }
+}
+
+/* Very wide: still 7 per row but with less gap if you want */
+@media (min-width: 1600px) {
+  .team-container {
+    grid-template-columns: repeat(7, 1fr);
+    gap: 0.5rem;
+  }
+}
+
+/* Even smaller avatars */
+.team-member img {
+  width: clamp(65px, 12vw, 90px);
+  height: clamp(65px, 12vw, 90px);
+  margin-bottom: 0.3rem;
+}
+
+/* Compact name spacing */
+.team-member h3 {
+  margin: 0.3rem 0 0.2rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+/* Compact role/affiliation */
+.team-member p {
+  margin: 0 auto 0.3rem;
+  max-width: 20ch;
+  font-size: 0.8rem;
+  line-height: 1.3;
+}
+
+/* Compact icon row */
+.team-links {
+  gap: 0.3rem;
+}
+
+.team-links a {
+  width: 24px;
+  height: 24px;
+  border-radius: 5px;
+}
+
+.team-links i { font-size: 0.8rem; }
+
+/* Tighten section heading */
+.section .title.has-text-centered {
+  margin-bottom: 0.6rem !important;
+}
