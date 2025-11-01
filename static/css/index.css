@@ -411,7 +411,7 @@ code {
 }
 
 .copy-bibtex-btn.copied {
-  background: #10b981;
+  background: #51277B;
 }
 
 .copy-bibtex-btn.copied .copy-text::after {
@@ -872,7 +872,7 @@ a:focus {
   line-height: 1.6;
 }
 .accent-link {
-  color: #4ade80;               /* emerald */
+  color: #51277B;               
   text-decoration: underline;
   text-underline-offset: 2px;
   text-decoration-thickness: 2px;
