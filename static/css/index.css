@@ -960,3 +960,12 @@ a:focus {
 .section .title.has-text-centered {
   margin-bottom: 0.6rem !important;
 }
+
+.team-section {
+  background-image: url("static/images/team.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll; /* or fixed if you want */
+  padding: 80px 0; /* optional to avoid cramp */
+}
