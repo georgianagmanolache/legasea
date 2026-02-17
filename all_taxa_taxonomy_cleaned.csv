@@ -1,0 +1,466 @@
+taxon_full_name,taxon_id_at_source,status_at_source,accepted_taxon_id_at_source,kingdom,division,class,order,family,genus,specific_epithet
+Dieren (Animalia),oer:id001,accepted,,Animalia,,,,,,
+taxon indet. (Chordata),oer:id002,accepted,,Animalia,Chordata,,,,,
+Zoogdieren (Mammalia),oer:id003,accepted,,Animalia,Chordata,Mammalia,,,,
+Evenhoevigen (Artiodactyla),oer:id004,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,,,
+Holhoornigen (Bovidae),oer:id005,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,,
+Bisons (Bison sp.),oer:id006,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,
+Bison van Menner (Bison menneri),oer:id007,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,Bison menneri
+Steppewisent (Bison priscus),oer:id008,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,Bison priscus
+Bosbison (Bison schoetensacki),oer:id009,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bison,Bison schoetensacki
+Runderachtige (Bos sp.),oer:id010,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,
+Oeros (Bos primigenius),oer:id011,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,Bos primigenius
+Rund (Bos taurus),oer:id012,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bos,Bos taurus
+Buffelachtige (Bubalus sp.),oer:id013,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus,
+Europese waterbuffel (Bubalus murrensis),oer:id014,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Bubalus,Bubalus murrensis
+Geit/Steenbok (Capra sp.),oer:id015,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,
+Geit (Capra hircus),oer:id016,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra hircus
+Alpensteenbok (Capra ibex),oer:id017,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Capra,Capra ibex
+Antilope (Caprovis sp.),oer:id018,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Caprovis,
+Savin’s antilope (Caprovis savinii),oer:id019,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Caprovis,Caprovis savinii
+Gazelle (Gazella sp.),oer:id020,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,
+Borbon’s antilope (Gazella borbonica),oer:id021,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,Gazella borbonica
+Schreuder’s gazelle (Gazella schreuderae),oer:id022,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Gazella,Gazella schreuderae
+Uitgestorven bovine (Leptobos sp.),oer:id023,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Leptobos,
+Antilope-achtige (Leptobos cf. elatus),oer:id024,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Leptobos,Leptobos cf. elatus
+Etruskische os (Leptobos etruscus),oer:id025,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Leptobos,Leptobos etruscus
+Muskusos (Ovibos sp.),oer:id026,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovibos,
+Muskusos (Ovibos moschatus),oer:id027,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovibos,Ovibos moschatus
+Schaapachtige (Ovis sp.),oer:id028,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,
+Schaap (Ovis aries),oer:id029,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Ovis,Ovis aries
+Reuzenmuskusossen (Praeovibos sp.),oer:id030,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Praeovibos,
+Reuzenmuskusos (Praeovibos priscus),oer:id031,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Praeovibos,Praeovibos priscus
+Saigas (Saiga sp.),oer:id032,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Saiga,
+Saiga antilope (Saiga tatarica),oer:id033,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Saiga,Saiga tatarica
+Steppegeiten (Soergelia sp.),oer:id034,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Soergelia,
+Kleine steppegeit (Soergelia minor),oer:id035,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Soergelia,Soergelia minor
+Hertachtigen (Cervidae),oer:id036,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,,
+Elanden (Alces sp.),oer:id037,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Alces,
+Eland (Alces alces),oer:id038,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Alces,Alces alces
+Uitgestorven eland (Alces gallicus),oer:id039,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Alces,Alces gallicus
+Breedkopeland (Alces latifrons),oer:id040,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Alces,Alces latifrons
+Reeën (Capreolus sp.),oer:id041,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Capreolus,
+Ree (Capreolus capreolus),oer:id042,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Capreolus,Capreolus capreolus
+Herten (Cervus sp.),oer:id043,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,
+Edelhert (Cervus elaphus),oer:id044,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus elaphus
+Kroonloos edelhert (Cervus elaphus acoronatus),oer:id045,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus elaphus acoronatus
+Rijnhert (Cervus rhenanus),oer:id046,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Cervus,Cervus rhenanus
+Damherten (Dama sp.),oer:id047,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,
+Damhert (Dama dama clactoniana),oer:id048,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Dama,Dama dama clactoniana
+Uitgestorven herten (Eucladoceros sp.),oer:id049,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Eucladoceros,
+Groot hert van Tegelen (Eucladoceros ctenoides),oer:id050,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Eucladoceros,Eucladoceros ctenoides
+Boshert (Eucladoceros falconeri),oer:id051,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Eucladoceros,Eucladoceros falconeri
+Reuzenherten (Megaloceros sp.),oer:id052,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Megaloceros,
+Reuzenhert van Dawkins (Megaloceros dawkinsi),oer:id053,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Megaloceros,Megaloceros dawkinsi
+Reuzenhert (Megaloceros giganteus),oer:id054,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Megaloceros,Megaloceros giganteus
+Reuzenhert van Savin (Megaloceros savini),oer:id055,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Megaloceros,Megaloceros savini
+Rendieren (Rangifer sp.),oer:id056,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer,
+Rendier (Rangifer tarandus),oer:id057,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Rangifer,Rangifer tarandus
+Nijlpaardachtigen (Hippopotamidae),oer:id058,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,,
+Nijlpaard (Hippopotamus sp.),oer:id059,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,
+Nijlpaard (Hippopotamus amphibius),oer:id060,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,Hippopotamus amphibius
+Oer Nijlpaard (Hippopotamus antiquus),oer:id061,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,Hippopotamus antiquus
+Eem Nijlpaard (Hippopotamus incognitus),oer:id062,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Hippopotamus,Hippopotamus incognitus
+Varkens (Suidae),oer:id063,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,,
+Zwijn of varken (Sus sp.),oer:id064,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,
+Wild zwijn of varken (Sus scrofa),oer:id065,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,Sus scrofa
+Wild zwijn van Strozzi (Sus strozzii),oer:id066,accepted,,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Sus,Sus strozzii
+Roofdieren (Carnivora),oer:id067,accepted,,Animalia,Chordata,Mammalia,Carnivora,,,
+Hondachtigen (Canidae),oer:id068,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,,
+Hond of wolf (Canis sp.),oer:id069,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,
+Etruscische wolf (Canis etruscus),oer:id070,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis etruscus
+Hond (Canis familiaris),oer:id071,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis familiaris
+Wolf (Canis lupus),oer:id072,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Canis,Canis lupus
+Vossen (Vulpes sp.),oer:id073,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,
+Poolvos (Vulpes lagopus),oer:id074,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,Vulpes lagopus
+Vos (Vulpes vulpes),oer:id075,accepted,,Animalia,Chordata,Mammalia,Carnivora,Canidae,Vulpes,Vulpes vulpes
+Katachtigen (Felidae),oer:id076,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,,
+Katten (Felis sp.),oer:id077,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,
+Kat (Felis catus),oer:id078,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,Felis catus
+Wilde kat (Felis silvestris),oer:id079,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Felis,Felis silvestris
+Sabeltandkatten (Homotherium sp.),oer:id080,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Homotherium,
+Vroeg Pleistocene sabeltandkat (Homotherium crenatidens),oer:id081,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Homotherium,Homotherium crenatidens
+Sabeltandkat (Homotherium latidens),oer:id082,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Homotherium,Homotherium latidens
+Lynxen (Lynx sp.),oer:id083,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,
+Lynx (Lynx lynx),oer:id084,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Lynx,Lynx lynx
+Panterkatten (Panthera sp.),oer:id085,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,
+Jaguar (Panthera onca gombaszoegensis),oer:id086,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera onca gombaszoegensis
+Luipaard (Panthera pardus),oer:id087,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera pardus
+Grottenleeuw (Panthera spelaea),oer:id088,accepted,,Animalia,Chordata,Mammalia,Carnivora,Felidae,Panthera,Panthera spelaea
+Hyena's (Hyaenidae),oer:id089,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,,
+Gevlekte hyena (Crocuta sp.),oer:id090,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta,
+Grottenhyena (Crocuta crocuta spelaea),oer:id091,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Crocuta,Crocuta crocuta spelaea
+Gestreepte hyena (Hyaena sp.),oer:id092,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,
+Perriers hyena (Hyaena perrieri),oer:id093,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Hyaena,Hyaena perrieri
+Uitgestorven hyena (Pachycrocuta sp.),oer:id094,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Pachycrocuta,
+Kortsnuitige hyena (Pachycrocuta brevirostris),oer:id095,accepted,,Animalia,Chordata,Mammalia,Carnivora,Hyaenidae,Pachycrocuta,Pachycrocuta brevirostris
+Marterachtige (Mustelidae),oer:id096,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,,
+Otter-achtigen (Aonyx sp.),oer:id097,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Aonyx,
+Otter-achtige (Aonyx antiquus),oer:id098,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Aonyx,Aonyx antiquus
+Veelvraten (Gulo sp.),oer:id099,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo,
+Veelvraat (Gulo gulo),oer:id100,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo,Gulo gulo
+Schlossers veelvraat (Gulo schlosseri),oer:id101,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Gulo,Gulo schlosseri
+Otters (Lutra sp.),oer:id102,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lutra,
+Otter (Lutra lutra),oer:id103,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Lutra,Lutra lutra
+Marter (Martes sp.),oer:id104,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Martes,
+Dassen (Meles sp.),oer:id105,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Meles,
+Das (Meles meles),oer:id106,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Meles,Meles meles
+Wezels (Mustela sp.),oer:id107,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,
+Europese hermelijn (Mustela erminae),oer:id108,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela erminae
+Europese wezel (Mustela nivalis),oer:id109,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela nivalis
+Oerhermelijn (Mustela palermina),oer:id110,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Mustela,Mustela palermina
+Uitgestorven marters (Pannonictis sp.),oer:id111,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Pannonictis,
+Marter van Tegelen (Pannonictis ardea),oer:id112,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Pannonictis,Pannonictis ardea
+Bunzing (Mustela putorius),oer:id113,accepted,,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Pannonictis,Mustela putorius
+Walrusachtigen (Odobenidae),oer:id114,accepted,,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,,
+Walrussen (Odobenus sp.),oer:id115,accepted,,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,Odobenus,
+Walrus (Odobenus rosmarus),oer:id116,accepted,,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,Odobenus,Odobenus rosmarus
+Walrussen (Ontocetus sp.),oer:id117,accepted,,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,Ontocetus,
+Walrus (Ontocetus emmonsi),oer:id118,accepted,,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,Ontocetus,Ontocetus emmonsi
+Zeehonden (Phocidae),oer:id119,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,,
+Baardrobben (Erignathus sp.),oer:id120,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Erignathus,
+Baardrob (Erignathus barbatus),oer:id121,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Erignathus,Erignathus barbatus
+Grijze zeehonden (Halichoerus sp.),oer:id122,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,
+Grijze zeehond (Halichoerus grypus),oer:id123,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Halichoerus,Halichoerus grypus
+Monniksrobben (Monachus sp.),oer:id124,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Monachus,
+Monniksrob (Monachus monachus),oer:id125,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Monachus,Monachus monachus
+Zadelrobben (Pagophilus sp.),oer:id126,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pagophilus,
+Zadelrob (Pagophilus groenlandica),oer:id127,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pagophilus,Pagophilus groenlandica
+Gewone zeehonden (Phoca sp.),oer:id128,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,
+Gewone zeehond (Phoca vitulina),oer:id129,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Phoca,Phoca vitulina
+Ringelrobben (Pusa sp.),oer:id130,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pusa,
+Ringelrob (Pusa hispida),oer:id131,accepted,,Animalia,Chordata,Mammalia,Carnivora,Phocidae,Pusa,Pusa hispida
+Beren (Ursidae),oer:id132,accepted,,Animalia,Chordata,Mammalia,Carnivora,Ursidae,,
+Beren (Ursus sp.),oer:id133,accepted,,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,
+Bruine beer (Ursus arctos),oer:id134,accepted,,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus arctos
+Deningers beer (Ursus deningeri),oer:id135,accepted,,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus deningeri
+Etruscische beer (Ursus cf. etruscus),oer:id136,accepted,,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus cf. etruscus
+Grottenbeer (Ursus spelaeus),oer:id137,accepted,,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Ursus,Ursus spelaeus
+Walvisachtigen (Cetacea),oer:id138,accepted,,Animalia,Chordata,Mammalia,Cetacea,,,
+Balijnwalvissen (Balaenidae),oer:id139,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,,
+Groenlandse walvissen (Balaena sp.),oer:id140,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Balaena,
+Groenlandse walvis (Balaena mysticetus),oer:id141,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Balaena,Balaena mysticetus
+Noordkapers (Eubalaena sp.),oer:id142,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,
+Noordkaper (Eubalaena glacialis),oer:id143,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenidae,Eubalaena,Eubalaena glacialis
+Vinvissen (Balaenopteridae),oer:id144,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,,
+Vinvissen (Balaenoptera sp.),oer:id145,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,
+Noordse vinvis (Balaenoptera borealis),oer:id146,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera borealis
+Blauwe vinvis (Balaenoptera musculus),oer:id147,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Balaenoptera,Balaenoptera musculus
+Bultruggen (Megaptera sp.),oer:id148,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,
+Bultrug (Megaptera novaeangliae),oer:id149,accepted,,Animalia,Chordata,Mammalia,Cetacea,Balaenopteridae,Megaptera,Megaptera novaeangliae
+Dolfijnen (Delphinidae),oer:id150,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,,
+Gewone dolfijnen (Delphinus sp.),oer:id151,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Delphinus,
+Gewone dolfijn (Delphinus delphis),oer:id152,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Delphinus,Delphinus delphis
+Griend (Globicephala sp.),oer:id153,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Globicephala,
+Witsnuitdolfijnen (Lagenorhynchus sp.),oer:id154,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,
+Witsnuitdolfijn (Lagenorhynchus albirostris),oer:id155,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Lagenorhynchus,Lagenorhynchus albirostris
+Orka's (Orcinus sp.),oer:id156,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Orcinus,
+Orka (Orcinus orca),oer:id157,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Orcinus,Orcinus orca
+Stompsnuitdolfijnen (Platalearostrum sp.),oer:id158,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Platalearostrum,
+Hoekmans stompsnuitdolfijn (Platalearostrum hoekmani),oer:id159,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Platalearostrum,Platalearostrum hoekmani
+Tuimelaars (Tursiops sp.),oer:id160,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,
+Tuimelaar (Tursiops truncatus),oer:id161,accepted,,Animalia,Chordata,Mammalia,Cetacea,Delphinidae,Tursiops,Tursiops truncatus
+Grijze walvissen (Eschrichtiidae),oer:id162,accepted,,Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,,
+Grijze walvissen (Eschrichtius sp.),oer:id163,accepted,,Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,Eschrichtius,
+Grijze walvis (Eschrichtius robustus),oer:id164,accepted,,Animalia,Chordata,Mammalia,Cetacea,Eschrichtiidae,Eschrichtius,Eschrichtius robustus
+Grondeldolfijnen (Monodontidae),oer:id165,accepted,,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,,
+Witte dolfijn (Delphinapterus sp.),oer:id166,accepted,,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Delphinapterus,
+Witte dolfijn (Delphinapterus leucas),oer:id167,accepted,,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Delphinapterus,Delphinapterus leucas
+Narwal (Monodon sp.),oer:id168,accepted,,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Monodon,
+Narwal (Monodon monoceros),oer:id169,accepted,,Animalia,Chordata,Mammalia,Cetacea,Monodontidae,Monodon,Monodon monoceros
+Bruinvissen (Phocoenidae),oer:id170,accepted,,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,,
+Bruinvissen (Phocoena sp.),oer:id171,accepted,,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoena,
+Bruinvis (Phocoena phocoena),oer:id172,accepted,,Animalia,Chordata,Mammalia,Cetacea,Phocoenidae,Phocoena,Phocoena phocoena
+Potvissen (Physeteridae),oer:id173,accepted,,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,,
+Potvissen (Physeter sp.),oer:id174,accepted,,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,
+Potvis (Physeter macrocephalus),oer:id175,accepted,,Animalia,Chordata,Mammalia,Cetacea,Physeteridae,Physeter,Physeter macrocephalus
+Spitssnuitdolfijnen (Ziphiidae),oer:id176,accepted,,Animalia,Chordata,Mammalia,Cetacea,Ziphiidae,,
+Noordelijke butskop (Hyperoodon sp.),oer:id177,accepted,,Animalia,Chordata,Mammalia,Cetacea,Ziphiidae,Hyperoodon,
+Noordelijke butskop (Hyperoodon ampullatus),oer:id178,accepted,,Animalia,Chordata,Mammalia,Cetacea,Ziphiidae,Hyperoodon,Hyperoodon ampullatus
+Spitssnuitdolfijn (Mesoplodon sp.),oer:id179,accepted,,Animalia,Chordata,Mammalia,Cetacea,Ziphiidae,Mesoplodon,
+Insecteneters (Eulipotyphla),oer:id180,accepted,,Animalia,Chordata,Mammalia,Eulipotyphla,,,
+Egels (Erinaceidae),oer:id181,accepted,,Animalia,Chordata,Mammalia,Eulipotyphla,Erinaceidae,,
+Egels (Erinaceus sp.),oer:id182,accepted,,Animalia,Chordata,Mammalia,Eulipotyphla,Erinaceidae,Erinaceus,
+Europese egel (Erinaceus europaeus ),oer:id183,accepted,,Animalia,Chordata,Mammalia,Eulipotyphla,Erinaceidae,Erinaceus,Erinaceus europaeus 
+Spitsmuizen (Soricidae),oer:id184,accepted,,Animalia,Chordata,Mammalia,Eulipotyphla,Soricidae,,
+Mollen (Talpidae),oer:id185,accepted,,Animalia,Chordata,Mammalia,Eulipotyphla,Talpidae,,
+Haasachtigen (Lagomorpha),oer:id186,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,,,
+Hazen en konijnen (Leporidae),oer:id187,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,,
+Uitgestorven haasachtige (Hypolagus sp.),oer:id188,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Hypolagus,
+Uitgestorven haasachtige (Hypolagus brachygnathus),oer:id189,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Hypolagus,Hypolagus brachygnathus
+Haas (Lepus sp.),oer:id190,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,
+Europese haas (Lepus europaeus),oer:id191,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus europaeus
+Sneeuwhaas (Lepus timidus),oer:id192,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Lepus,Lepus timidus
+Fluithazen (Ochotonidae),oer:id193,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,,
+Fluithazen (Ochotona sp.),oer:id194,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona,
+Dwergfluithaas (Ochotona pusilla),oer:id195,accepted,,Animalia,Chordata,Mammalia,Lagomorpha,Ochotonidae,Ochotona,Ochotona pusilla
+Onevenhoevigen (Perissodactyla),oer:id196,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,,,
+Paardachtigen (Equidae),oer:id197,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,,
+Paard (Equus sp.),oer:id198,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,
+Ezel (Equus hydruntinus),oer:id199,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus hydruntinus
+Groot uitgestorven paard (Equus bressanus),oer:id200,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus bressanus
+Wild paard (Equus ferus caballus),oer:id201,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus ferus caballus
+Europees wild paard (Equus hemionus hydruntinus),oer:id202,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus hemionus hydruntinus
+Europese wilde ezel (Equus hydruntinus),oer:id203,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus hydruntinus
+Stenon zebra (Equus stenonis),oer:id204,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Equus,Equus stenonis
+Neushoorns (Rhinocerotidae),oer:id205,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,,
+Uitgestorven neushoorn (Coelodonta sp.),oer:id206,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Coelodonta,
+Wolharige neushoorn (Coelodonta antiquitatis),oer:id207,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Coelodonta,Coelodonta antiquitatis
+Uitgestorven neushoorn (Stephanorhinus sp.),oer:id208,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Stephanorhinus,
+Etruskische neushoorn (Stephanorhinus etruscus),oer:id209,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Stephanorhinus,Stephanorhinus etruscus
+Steppeneushoorn (Stephanorhinus hemitoechus),oer:id210,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Stephanorhinus,Stephanorhinus hemitoechus
+Bosneushoorn (Stephanorhinus kirchbergensis),oer:id211,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Stephanorhinus,Stephanorhinus kirchbergensis
+Tapirs (Tapiridae),oer:id212,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,,
+Tapirs (Tapirus sp.),oer:id213,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus,
+Tapir (Tapirus arvernensis),oer:id214,accepted,,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Tapirus,Tapirus arvernensis
+Primaten (Primates),oer:id215,accepted,,Animalia,Chordata,Mammalia,Primates,,,
+Apen van de Oude Wereld (Cercopithecidae),oer:id216,accepted,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,,
+Makaken (Macaca sp.),oer:id217,accepted,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,
+Berberaap (Macaca sylvanus),oer:id218,accepted,,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Macaca,Macaca sylvanus
+Mensachtigen (Hominidae),oer:id219,accepted,,Animalia,Chordata,Mammalia,Primates,Hominidae,,
+Mens (Homo sp.),oer:id220,accepted,,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,
+Heidelbergmens (Homo heidelbergensis),oer:id221,accepted,,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,Homo heidelbergensis
+Neanderthaler (Homo neanderthalensis),oer:id222,accepted,,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,Homo neanderthalensis
+Mens (Homo sapiens),oer:id223,accepted,,Animalia,Chordata,Mammalia,Primates,Hominidae,Homo,Homo sapiens
+Slurfdieren (Proboscidea),oer:id224,accepted,,Animalia,Chordata,Mammalia,Proboscidea,,,
+Olifantachtigen (Elephantidae),oer:id225,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,,
+Mastodont (Mammut sp.),oer:id226,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammut,
+Europese mastodont (Mammut borsoni),oer:id227,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammut,Mammut borsoni
+Mammoet (Mammuthus sp.),oer:id228,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammuthus,
+Zuidelijke mammoet (Mammuthus meridionalis),oer:id229,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammuthus,Mammuthus meridionalis
+Wolharige mammoet (Mammuthus primigenius),oer:id230,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammuthus,Mammuthus primigenius
+Steppemammoet (Mammuthus trogontherii),oer:id231,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Mammuthus,Mammuthus trogontherii
+Uitgestorven olifant (Palaeoloxodon sp.),oer:id232,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Palaeoloxodon,
+Bosolifant (Palaeoloxodon antiquus),oer:id233,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Palaeoloxodon,Palaeoloxodon antiquus
+Uitgestorven slurfdrager (Gomphotheriidae),oer:id234,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Gomphotheriidae,,
+Mastodont (Anancus sp.),oer:id235,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Gomphotheriidae,Anancus,
+Mastodont van Auvergne (Anancus arvernensis),oer:id236,accepted,,Animalia,Chordata,Mammalia,Proboscidea,Gomphotheriidae,Anancus,Anancus arvernensis
+Knaagdieren (Rodentia),oer:id237,accepted,,Animalia,Chordata,Mammalia,Rodentia,,,
+Lemmingen (Arvicolidae),oer:id238,accepted,,Animalia,Chordata,Mammalia,Rodentia,Arvicolidae,,
+Beverachtigen (Castoridae),oer:id239,accepted,,Animalia,Chordata,Mammalia,Rodentia,Castoridae,,
+Bever (Castor sp.),oer:id240,accepted,,Animalia,Chordata,Mammalia,Rodentia,Castoridae,Castor,
+Europese bever (Castor fiber),oer:id241,accepted,,Animalia,Chordata,Mammalia,Rodentia,Castoridae,Castor,Castor fiber
+Reuzenbevers (Trogontherium sp.),oer:id242,accepted,,Animalia,Chordata,Mammalia,Rodentia,Castoridae,Trogontherium,
+Reuzenbever (Trogontherium cuvieri),oer:id243,accepted,,Animalia,Chordata,Mammalia,Rodentia,Castoridae,Trogontherium,Trogontherium cuvieri
+"Muizen, ratten en hamsters (NW) (Cricetidae)",oer:id244,accepted,,Animalia,Chordata,Mammalia,Rodentia,Cricetidae,,
+Springmuizen (Dipodidae),oer:id245,accepted,,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,,
+Berkenmuis (Sicista sp.),oer:id246,accepted,,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Sicista,
+Driekleurige muis (Sicista subtilis),oer:id247,accepted,,Animalia,Chordata,Mammalia,Rodentia,Dipodidae,Sicista,Sicista subtilis
+Slaapmuizen (Gliridae),oer:id248,accepted,,Animalia,Chordata,Mammalia,Rodentia,Gliridae,,
+Stekelvarkens van de Oude Wereld (Hystricidae),oer:id249,accepted,,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,,
+Stekelvarkens (Hystrix sp.),oer:id250,accepted,,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix,
+gewoon stekelvarken (Hystrix cristata),oer:id251,accepted,,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix,Hystrix cristata
+Etruskisch stekelvarken (Hystrix refossa),oer:id252,accepted,,Animalia,Chordata,Mammalia,Rodentia,Hystricidae,Hystrix,Hystrix refossa
+Muizen en ratten (OW) (Muridae),oer:id253,accepted,,Animalia,Chordata,Mammalia,Rodentia,Muridae,,
+Eekhoorns (Sciuridae),oer:id254,accepted,,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,,
+Amfibiën (Amfibia),oer:id255,accepted,,Animalia,Chordata,Amfibia,,,,
+Kikkers en padden (Anura),oer:id256,accepted,,Animalia,Chordata,Amfibia,Anura,,,
+Padden (Bufonidae),oer:id257,accepted,,Animalia,Chordata,Amfibia,Anura,Bufonidae,,
+Pad (Bufo sp.),oer:id258,accepted,,Animalia,Chordata,Amfibia,Anura,Bufonidae,Bufo,
+Gewone pad (Bufo cf. bufo),oer:id259,accepted,,Animalia,Chordata,Amfibia,Anura,Bufonidae,Bufo,Bufo cf. bufo
+Rugstreeppad (Epidalea sp.),oer:id260,accepted,,Animalia,Chordata,Amfibia,Anura,Bufonidae,Epidalea,
+Rugstreeppad (Epidalea cf. calamita),oer:id261,accepted,,Animalia,Chordata,Amfibia,Anura,Bufonidae,Epidalea,Epidalea cf. calamita
+Knoflookpadden (Pelobatidae),oer:id262,accepted,,Animalia,Chordata,Amfibia,Anura,Pelobatidae,,
+Knoflookpad (Pelobates sp.),oer:id263,accepted,,Animalia,Chordata,Amfibia,Anura,Pelobatidae,Pelobates,
+Knoflookpad (Pelobates cf. fuscus),oer:id264,accepted,,Animalia,Chordata,Amfibia,Anura,Pelobatidae,Pelobates,Pelobates cf. fuscus
+Echte kikkers (Ranidae),oer:id265,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,,
+Groene kikker (Pelophylax sp.),oer:id266,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,Pelophylax,
+Middelste groene kikker (Pelophylax sp. cf. kl. esculentus),oer:id267,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,Pelophylax,Pelophylax sp. cf. kl. esculentus
+Poelkikker (Pelophylax sp. cf. lessonae),oer:id268,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,Pelophylax,Pelophylax sp. cf. lessonae
+Meerkikker (Pelophylax ridibunda),oer:id269,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,Pelophylax,Pelophylax ridibunda
+Bruine / gewone kikker (Rana sp.),oer:id270,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,Rana,
+Bruine / gewone kikker (Rana cf. temporaria),oer:id271,accepted,,Animalia,Chordata,Amfibia,Anura,Ranidae,Rana,Rana cf. temporaria
+Reptielen (Reptilia),oer:id272,accepted,,Animalia,Chordata,Reptilia,,,,
+Schubreptielen (Squamata),oer:id273,accepted,,Animalia,Chordata,Reptilia,Squamata,,,
+Hazelwormen (Anguidae),oer:id274,accepted,,Animalia,Chordata,Reptilia,Squamata,Anguidae,,
+Hazelwormen (Anguis sp.),oer:id275,accepted,,Animalia,Chordata,Reptilia,Squamata,Anguidae,Anguis,
+Hazelworm (Anguis gr. fragillis),oer:id276,accepted,,Animalia,Chordata,Reptilia,Squamata,Anguidae,Anguis,Anguis gr. fragillis
+Scheltopusik (cf. Pseudopus sp.),oer:id277,accepted,,Animalia,Chordata,Reptilia,Squamata,Anguidae,Pseudopus,
+Toornslangachtige (Colubridae indet.),oer:id278,accepted,,Animalia,Chordata,Reptilia,Squamata,Colubridae,,
+Waterslangachtige (cf. Natricinae indet.),oer:id279,accepted,,Animalia,Chordata,Reptilia,Squamata,Colubridae,,
+Ringslang (Natrix natrix),oer:id280,accepted,,Animalia,Chordata,Reptilia,Squamata,Colubridae,Natrix,Natrix natrix
+Echte hagedis (Lacertidae indet.),oer:id281,accepted,,Animalia,Chordata,Reptilia,Squamata,Lacertidae,,
+Schildpadden (Testudines),oer:id282,accepted,,Animalia,Chordata,Reptilia,Testudines,,,
+Moerrasschildpadden (Emydidae),oer:id283,accepted,,Animalia,Chordata,Reptilia,Testudines,Emydidae,,
+Europese moerasschildpad (Emys sp.),oer:id284,accepted,,Animalia,Chordata,Reptilia,Testudines,Emydidae,Emys,
+Europese moerasschildpad (Emys orbicularis),oer:id285,accepted,,Animalia,Chordata,Reptilia,Testudines,Emydidae,Emys,Emys orbicularis
+Oude Wereld moerrasschildpadden (Geoemydidae),oer:id286,accepted,,Animalia,Chordata,Reptilia,Testudines,Geoemydidae,,
+Euraziatische waterschildpad (Mauremys sp.),oer:id287,accepted,,Animalia,Chordata,Reptilia,Testudines,Geoemydidae,Mauremys,
+Vogels (Aves),oer:id288,accepted,,Animalia,Chordata,Aves,,,,
+Beenvisachtigen (Osteichthyes),oer:id289,accepted,,Animalia,Chordata,Osteichthyes,,,,
+Kraakbeenvissen (Chondrichthyes),oer:id290,accepted,,Animalia,Chordata,Chondrichthyes,,,,
+Haaien (Selachimorpha),oer:id291,accepted,,Animalia,Chordata,Chondrichthyes,Selachimorpha,,,
+Roggen (Batoidea),oer:id292,accepted,,Animalia,Chordata,Chondrichthyes,Batoidea,,,
+Weekdieren (Mollusca),oer:id293,accepted,,Animalia,Mollusca,,,,,
+Tweekleppigen (Bivalvia),oer:id294,accepted,,Animalia,Mollusca,Bivalvia,,,,
+Tweekleppigen (Arcida),oer:id295,accepted,,Animalia,Mollusca,Bivalvia,Arcida,,,
+Tweekleppigen (Glycymerididae),oer:id296,accepted,,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,,
+Tweekleppigen (Glycymeris sp.),oer:id297,accepted,,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris,
+Gewone marmerschelp (Glycymeris glycymeris),oer:id298,accepted,,Animalia,Mollusca,Bivalvia,Arcida,Glycymerididae,Glycymeris,Glycymeris glycymeris
+Tweekleppigen (Cardiida),oer:id299,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,,,
+Hartschelpen (Cardiidae),oer:id300,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,,
+Hartschelpen (Acanthocardia sp.),oer:id301,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia,
+Gedoornde hartschelp (Acanthocardia echinata),oer:id302,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia,Acanthocardia echinata
+Geknobbelde hartschelp (Acanthocardia tuberculata),oer:id303,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Acanthocardia,Acanthocardia tuberculata
+Kokkels (Cerastoderma sp.),oer:id304,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma,
+Kokkel (Cerastoderma edule),oer:id305,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma,Cerastoderma edule
+Brakwaterkokkel (Cerastoderma glaucum),oer:id306,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Cerastoderma,Cerastoderma glaucum
+Hartschelpen (Laevicardium sp.),oer:id307,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Laevicardium,
+Noorse hartschelp (Laevicardium crassum),oer:id308,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Cardiidae,Laevicardium,Laevicardium crassum
+Zonneschelpen (Psammobiidae),oer:id309,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Psammobiidae,,
+Zonneschelpen (Gari sp.),oer:id310,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Psammobiidae,Gari,
+Geplooide zonneschelp (Gari fervensis),oer:id311,accepted,,Animalia,Mollusca,Bivalvia,Cardiida,Psammobiidae,Gari,Gari fervensis
+Tweekleppigen (Carditida),oer:id312,accepted,,Animalia,Mollusca,Bivalvia,Carditida,,,
+Tweekleppigen (Astartidae),oer:id313,accepted,,Animalia,Mollusca,Bivalvia,Carditida,Astartidae,,
+Tweekleppigen (Tridonta sp.),oer:id314,accepted,,Animalia,Mollusca,Bivalvia,Carditida,Astartidae,Tridonta,
+Tweekleppigen (Tridonta borealis),oer:id315,accepted,,Animalia,Mollusca,Bivalvia,Carditida,Astartidae,Tridonta,Tridonta borealis
+Tweekleppigen (Carditidae),oer:id316,accepted,,Animalia,Mollusca,Bivalvia,Carditida,Carditidae,,
+Tweekleppigen (Venericor sp.),oer:id317,accepted,,Animalia,Mollusca,Bivalvia,Carditida,Carditidae,Venericor,
+Zwinkokkel (Venericor planicosta),oer:id318,accepted,,Animalia,Mollusca,Bivalvia,Carditida,Carditidae,Venericor,Venericor planicosta
+Tweekleppigen (Myida),oer:id319,accepted,,Animalia,Mollusca,Bivalvia,Myida,,,
+Tweekleppigen (Myidae),oer:id320,accepted,,Animalia,Mollusca,Bivalvia,Myida,Myidae,,
+Tweekleppigen (Mya sp.),oer:id321,accepted,,Animalia,Mollusca,Bivalvia,Myida,Myidae,Mya,
+Strandgaper (Mya arenaria),oer:id322,accepted,,Animalia,Mollusca,Bivalvia,Myida,Myidae,Mya,Mya arenaria
+Afgeknotte gaper (Mya truncata),oer:id323,accepted,,Animalia,Mollusca,Bivalvia,Myida,Myidae,Mya,Mya truncata
+Boormossels (Pholadidae),oer:id324,accepted,,Animalia,Mollusca,Bivalvia,Myida,Pholadidae,,
+Boormossels (Barnea sp.),oer:id325,accepted,,Animalia,Mollusca,Bivalvia,Myida,Pholadidae,Barnea,
+Witte boormossel (Barnea candida),oer:id326,accepted,,Animalia,Mollusca,Bivalvia,Myida,Pholadidae,Barnea,Barnea candida
+Tweekleppigen (Zirfaea sp.),oer:id327,accepted,,Animalia,Mollusca,Bivalvia,Myida,Pholadidae,Zirfaea,
+Ruwe boormossel (Zirfaea crispata),oer:id328,accepted,,Animalia,Mollusca,Bivalvia,Myida,Pholadidae,Zirfaea,Zirfaea crispata
+Mosselen (Mytilida),oer:id329,accepted,,Animalia,Mollusca,Bivalvia,Mytilida,,,
+Mosselen (Mytilidae),oer:id330,accepted,,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,,
+Mosselen (Mytilus sp.),oer:id331,accepted,,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,
+Mossel (Mytilus edulis),oer:id332,accepted,,Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,Mytilus edulis
+Tweekleppigen (Ostreida),oer:id333,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,,,
+Tweekleppigen (Gryphaeidae),oer:id334,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Gryphaeidae,,
+Tweekleppigen (Gryphaea sp.),oer:id335,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Gryphaeidae,Gryphaea,
+Tweekleppigen (Gryphaea arcuata),oer:id336,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Gryphaeidae,Gryphaea,Gryphaea arcuata
+Oesters (Ostreidae),oer:id337,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,,
+Oesters (Lopha sp.),oer:id338,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Lopha,
+Oesters (Ostrea sp.),oer:id339,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea,
+Gewone oester (Ostrea edulis),oer:id340,accepted,,Animalia,Mollusca,Bivalvia,Ostreida,Ostreidae,Ostrea,Ostrea edulis
+Tweekleppigen (Pectinida),oer:id341,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,,,
+Tweekleppigen (Anomiidae),oer:id342,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Anomiidae,,
+Tweekleppigen (Anomia sp.),oer:id343,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Anomiidae,Anomia,
+Paardenzadel (Anomia ephippium),oer:id344,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Anomiidae,Anomia,Anomia ephippium
+Mantelschelpen (Pectinidae),oer:id345,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,,
+Mantelschelpen (Aequipecten sp.),oer:id346,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten,
+Wijde mantel (Aequipecten opercularis),oer:id347,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Aequipecten,Aequipecten opercularis
+Mantelschelpen (Flexopecten sp.),oer:id348,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Flexopecten,
+Gewelfde mantel (Flexopecten flexuosus),oer:id349,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Flexopecten,Flexopecten flexuosus
+Mantelschelpen (Mimachlamys sp.),oer:id350,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys,
+Bonte mantel (Mimachlamys varia),oer:id351,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Mimachlamys,Mimachlamys varia
+Mantelschelpen (Pecten sp.),oer:id352,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten,
+Mantelschelp (Pecten complanatus),oer:id353,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten,Pecten complanatus
+Grote mantel (Pecten maximus),oer:id354,accepted,,Animalia,Mollusca,Bivalvia,Pectinida,Pectinidae,Pecten,Pecten maximus
+Tweekleppigen (Unionida),oer:id355,accepted,,Animalia,Mollusca,Bivalvia,Unionida,,,
+Najaden (Unionidae),oer:id356,accepted,,Animalia,Mollusca,Bivalvia,Unionida,Unionidae,,
+Stroommossels (Unio sp.),oer:id357,accepted,,Animalia,Mollusca,Bivalvia,Unionida,Unionidae,Unio,
+Schildersmossel (Unio pictorum),oer:id358,accepted,,Animalia,Mollusca,Bivalvia,Unionida,Unionidae,Unio,Unio pictorum
+Tweekleppigen (Venerida),oer:id359,accepted,,Animalia,Mollusca,Bivalvia,Venerida,,,
+Tweekleppigen (Arcticidae),oer:id360,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Arcticidae,,
+Tweekleppigen (Arctica sp.),oer:id361,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica,
+Noordkromp (Arctica islandica),oer:id362,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Arcticidae,Arctica,Arctica islandica
+Tweekleppigen (Cyrenidae),oer:id363,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Cyrenidae,,
+Tweekleppigen (Corbicula sp.),oer:id364,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Cyrenidae,Corbicula,
+Toegeknepen korfmossel (Corbicula fluminalis),oer:id365,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Cyrenidae,Corbicula,Corbicula fluminalis
+Strandschelpen (Mactridae),oer:id366,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,,
+Strandschelpen (Mactra sp.),oer:id367,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra,
+Brede strandschelp (Mactra glauca),oer:id368,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra,Mactra glauca
+Grote strandschelp (Mactra stultorum plistoneerlandica),oer:id369,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Mactra,Mactra stultorum plistoneerlandica
+Strandschelpen (Spisula sp.),oer:id370,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula,
+Stevige strandschelp (Spisula solida),oer:id371,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Mactridae,Spisula,Spisula solida
+Venusschelpen (Veneridae),oer:id372,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,,
+Venusschelpen (Dosinia sp.),oer:id373,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia,
+Gewone artemisschelp (Dosinia exoleta),oer:id374,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Dosinia,Dosinia exoleta
+Venusschelpen (Mercenaria sp.),oer:id375,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria,
+Amerikaanse venusschelp (Mercenaria mercenaria),oer:id376,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Mercenaria,Mercenaria mercenaria
+Venusschelpen (Polititapes sp.),oer:id377,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Polititapes,
+Venusschelp (Polititapes senescens),oer:id378,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Polititapes,Polititapes senescens
+Venusschelpen (Venus sp.),oer:id379,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Venus,
+Wrattige venusschelp (Venus verrucosa),oer:id380,accepted,,Animalia,Mollusca,Bivalvia,Venerida,Veneridae,Venus,Venus verrucosa
+Slakken (Gastropoda),oer:id381,accepted,,Animalia,Mollusca,Gastropoda,,,,
+Slakken (Caenogastropoda),oer:id382,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,,,
+Wenteltrappen (Epitoniidae),oer:id383,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Epitoniidae,,
+Wenteltrappen (Epitonium sp.),oer:id384,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Epitoniidae,Epitonium,
+Gewone wenteltrap (Epitonium clathrus),oer:id385,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Epitoniidae,Epitonium,Epitonium clathrus
+Turtons wenteltrap (Epitonium turtonis),oer:id386,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Epitoniidae,Epitonium,Epitonium turtonis
+Slakken (Potamididae),oer:id387,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Potamididae,,
+Slakken (Cerithidea sp.),oer:id388,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Potamididae,Cerithidea,
+Turitella's (Turitellidae),oer:id389,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Turitellidae,,
+Turitella's (Turritellinella communis),oer:id390,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Turitellidae,Turritellinella,
+Turitella (Turritellinella sp.),oer:id391,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Turitellidae,Turritellinella,Turritellinella sp.
+Slakken (Viviparidae),oer:id392,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Viviparidae,,
+Slakken (Viviparus sp.),oer:id393,accepted,,Animalia,Mollusca,Gastropoda,Caenogastropoda,Viviparidae,Viviparus,
+Slakken (Heterobranchia),oer:id394,accepted,,Animalia,Mollusca,Gastropoda,Heterobranchia,,,
+Slakken (Nerineidae),oer:id395,accepted,,Animalia,Mollusca,Gastropoda,Heterobranchia,Nerineidae,,
+Slakken (Nerinea sp.),oer:id396,accepted,,Animalia,Mollusca,Gastropoda,Heterobranchia,Nerineidae,Nerinea,
+Slakken (Lepetellida),oer:id397,accepted,,Animalia,Mollusca,Gastropoda,Lepetellida,,,
+Gathorens (Fissurellidae),oer:id398,accepted,,Animalia,Mollusca,Gastropoda,Lepetellida,Fissurellidae,,
+Gathorens (Diodora sp.),oer:id399,accepted,,Animalia,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,
+Sleutelgathoren (Diodora graeca),oer:id400,accepted,,Animalia,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,Diodora graeca
+Slakken (Littorinimorpha),oer:id401,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,,,
+Tepelhorens (Naticidae),oer:id402,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,Naticidae,,
+Tepelhorens (Euspira sp.),oer:id403,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,Naticidae,Euspira,
+Grote tepelhoren (Euspira catena),oer:id404,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,Naticidae,Euspira,Euspira catena
+Glanzende tepelhoren (Euspira nitida),oer:id405,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,Naticidae,Euspira,Euspira nitida
+Slakken (Triviidae),oer:id406,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,Triviidae,,
+Slakken (Trivia sp.),oer:id407,accepted,,Animalia,Mollusca,Gastropoda,Littorinimorpha,Triviidae,Trivia,
+Slakken (Neogastropoda),oer:id408,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,,,
+Wulken en noordhorens (Buccinidae),oer:id409,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,,
+Wulken (Buccinum sp.),oer:id410,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,
+Wulk (Buccinum undatum),oer:id411,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum undatum
+Slakken (Neptunea sp.),oer:id412,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Neptunea,
+Slak (Neptunea angulata),oer:id413,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Buccinidae,Neptunea,Neptunea angulata
+Slakken (Muricidae),oer:id414,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,,
+Slakken (Nucella sp.),oer:id415,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Nucella,
+Purperslak (Nucella lapillus),oer:id416,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Nucella,Nucella lapillus
+Slakken (Ocenebra sp.),oer:id417,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Ocenebra,
+Slak (Ocenebra erinaceus),oer:id418,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Ocenebra,Ocenebra erinaceus
+Slak (Stramonita sp.),oer:id419,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Muricidae,Stramonita,
+Fuikhorens (Nassariidae),oer:id420,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Nassariidae,,
+Fuikhorens (Tritia sp.),oer:id421,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Nassariidae,Tritia,
+Gevlochten fuikhoren (Tritia reticulata),oer:id422,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Nassariidae,Tritia,Tritia reticulata
+Zeeslakken (Volutidae),oer:id423,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Volutidae,,
+Zeeslakken (Euroscaphella sp.),oer:id424,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Volutidae,Euroscaphella,
+Zeeslak (Euroscaphella lamberti),oer:id425,accepted,,Animalia,Mollusca,Gastropoda,Neogastropoda,Volutidae,Euroscaphella,Euroscaphella lamberti
+Slakken (Patellogastropoda),oer:id426,accepted,,Animalia,Mollusca,Gastropoda,Patellogastropoda,,,
+Schaalhoornachtigen (Patellidae),oer:id427,accepted,,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,,
+Schaalhoorns (Patella sp.),oer:id428,accepted,,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella,
+Gewone schaalhoorn (Patella vulgata),oer:id429,accepted,,Animalia,Mollusca,Gastropoda,Patellogastropoda,Patellidae,Patella,Patella vulgata
+Longslakken (Pulmonata),oer:id430,accepted,,Animalia,Mollusca,Gastropoda,Pulmonata,,,
+Schijfhorens (Planorbidae),oer:id431,accepted,,Animalia,Mollusca,Gastropoda,Pulmonata,Planorbidae,,
+Posthorenslak (Planorbarius sp.),oer:id432,accepted,,Animalia,Mollusca,Gastropoda,Pulmonata,Planorbidae,Planorbarius,
+Landlongslakken (Stylommatophora),oer:id433,accepted,,Animalia,Mollusca,Gastropoda,Stylommatophora,,,
+Tuinslakken (Helicidae),oer:id434,accepted,,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,,
+Tuinslakken (Cepaea sp.),oer:id435,accepted,,Animalia,Mollusca,Gastropoda,Stylommatophora,Helicidae,Cepaea,
+Inktvissen (Cephalopoda),oer:id436,accepted,,Animalia,Mollusca,Cephalopoda,,,,
+Ammonieten (Ammonoidea),oer:id437,accepted,,Animalia,Mollusca,Cephalopoda,Ammonoidea,,,
+Belemnieten (Coloidea),oer:id438,accepted,,Animalia,Mollusca,Cephalopoda,Coloidea,,,
+Zeekatten (Sepiida),oer:id439,accepted,,Animalia,Mollusca,Cephalopoda,Sepiida,,,
+Tandschelpen (Scaphopoda),oer:id440,accepted,,Animalia,Mollusca,Scaphopoda,,,,
+Geleedpotigen (Arthropoda),oer:id441,accepted,,Animalia,Arthropoda,,,,,
+Hogere kreeftachtigen (Malacostraca),oer:id442,accepted,,Animalia,Arthropoda,Malacostraca,,,,
+Tienpotigen (Decapoda),oer:id443,accepted,,Animalia,Arthropoda,Malacostraca,Decapoda,,,
+Mariene kreeftachtigen (Thecostraca),oer:id444,accepted,,Animalia,Arthropoda,Thecostraca,,,,
+Zeepokken (Sessilia),oer:id445,accepted,,Animalia,Arthropoda,Thecostraca,Sessilia,,,
+Stekelhuidigen (Echinodermata),oer:id446,accepted,,Animalia,Echinodermata,,,,,
+Zeesterren (Asteroidea),oer:id447,accepted,,Animalia,Echinodermata,Asteroidea,,,,
+Zee-egels (Echinoidea),oer:id448,accepted,,Animalia,Echinodermata,Echinoidea,,,,
+Zeelelies (Crinoidea),oer:id449,accepted,,Animalia,Echinodermata,Crinoidea,,,,
+Ringwormen (Annelida),oer:id450,accepted,,Animalia,Annelida,,,,,
+Borstelwormen (Kokerwormen) (Polychaeta),oer:id451,accepted,,Animalia,Annelida,Polychaeta,,,,
+Neteldieren (Cnidaria),oer:id452,accepted,,Animalia,Cnidaria,,,,,
+Bloemdieren (Koralen) (Anthozoa),oer:id453,accepted,,Animalia,Cnidaria,Anthozoa,,,,
+Sponzen (Porifera),oer:id454,accepted,,Animalia,Porifera,,,,,
+hout of plantmateriaal (Plantae),oer:id455,accepted,,Plantae,,,,,,
+benen werktuig,oer:id456,accepted,,Artefact,Benen werktuig,,,,,
+benen spits,oer:id457,accepted,,Artefact,Benen werktuig,Benen spits,,,,
+vuursteen artefact,oer:id458,accepted,,Artefact,Vuursteen artefact,,,,,
+mogelijk artefact,oer:id459,accepted,,Artefact,Mogelijk artefact,,,,,
+aardewerk,oer:id460,accepted,,Artefact,Aardewerk,,,,,
+steen,oer:id461,accepted,,Steen,,,,,,
+zwerfsteen,oer:id462,accepted,,Steen,Zwerfsteen,,,,,
+vuursteen (geen artefact),oer:id463,accepted,,Steen,Vuursteen (geen artefact),,,,,
+afval,oer:id464,accepted,,Afval,,,,,,
+Armpotigen (Brachiopoda),oer:id465,accepted,,Animalia,Brachiopoda,,,,,
