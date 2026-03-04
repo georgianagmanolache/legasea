@@ -754,11 +754,21 @@ a:focus {
    ========================= */
 
 /* Team grid – mobile-first, responsive */
+/* .team-container {
+  display: grid;
+  grid-template-columns: 1fr;          
+  /* phones: 1 per row */
+  /* gap: 2rem 1.25rem;
+  justify-items: center;
+  padding: 30px 0;
+}  */
+
 .team-container {
   display: grid;
-  grid-template-columns: 1fr;          /* phones: 1 per row */
+  grid-template-columns: 1fr;   /* phones: 1 per row */
   gap: 2rem 1.25rem;
-  justify-items: center;
+  justify-items: center;        /* center items inside cells */
+  justify-content: center;      /* center the whole grid */
   padding: 30px 0;
 }
 
