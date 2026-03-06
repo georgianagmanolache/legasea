@@ -758,7 +758,8 @@ a:focus {
   display: grid;
   grid-template-columns: 1fr;          
   /* phones: 1 per row */
-  /* gap: 2rem 1.25rem;
+  /* 
+  gap: 2rem 1.25rem;
   justify-items: center;
   padding: 30px 0;
 }  */
