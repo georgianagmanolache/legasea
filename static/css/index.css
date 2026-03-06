@@ -766,6 +766,7 @@ a:focus {
 
 .team-container {
   display: grid;
+  grid-auto-flow: row;    
   grid-template-columns: 1fr;   /* phones: 1 per row */
   gap: 2rem 1.25rem;
   justify-items: center;        /* center items inside cells */
